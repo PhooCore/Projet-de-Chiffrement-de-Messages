@@ -109,7 +109,7 @@ Le chiffrement de Vigenère utilise un mot-clé pour déterminer le décalage de
 
 ## Auteurs
 
-- **NGUYEN Tuyet Phuong (PhooCore)** 
+* **NGUYEN Phuong** | [GitHub-PhooCore](https://github.com/PhooCore)
 - **AHMAD FAISAL Aneesa** 
 
 ## Licence
