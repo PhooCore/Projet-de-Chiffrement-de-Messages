@@ -14,7 +14,7 @@ Un programme en C permettant de chiffrer et déchiffrer des messages en utilisan
 
 ## Description
 
-Ce projet a été réalisé en binôme dans le cadre de la ressource  **R2.04 : Communication et fonctionnement bas niveau**. Nous avons eu le choix entre 3 différents projets, le chiffrement en était le 3e. 
+Ce projet a été réalisé pendant ma 2e année en BUT Informatique en binôme dans le cadre de la ressource  **R2.04 : Communication et fonctionnement bas niveau**. Nous avons eu le choix entre 3 différents projets, le chiffrement en était le 3e. 
 Il s'agit d'une application console interactive qui permet de chiffrer et déchiffrer des messages textuels en utilisant deux méthodes de chiffrement historiques.
 Le programme gère les caractères accentués et offre une interface utilisateur intuitive.
 
@@ -109,7 +109,7 @@ Le chiffrement de Vigenère utilise un mot-clé pour déterminer le décalage de
 
 ## Auteurs
 
-- **NGUYEN Tuyet Phuong** 
+- **NGUYEN Tuyet Phuong (PhooCore)** 
 - **AHMAD FAISAL Aneesa** 
 
 ## Licence
