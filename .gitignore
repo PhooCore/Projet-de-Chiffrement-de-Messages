@@ -1,55 +1,62 @@
-# Prerequisites
-*.d
-
-# Object files
+# Fichiers compilés
 *.o
-*.ko
 *.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
 *.exe
 *.out
 *.app
-*.i*86
-*.x86_64
-*.hex
+main
 
-# Debug files
+# Fichiers de débogage
 *.dSYM/
 *.su
 *.idb
 *.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Fichiers de précompilation
+*.gch
+*.pch
 
-# debug information files
-*.dwo
+# Bibliothèques
+*.lib
+*.a
+*.la
+*.lo
+
+# Dossiers de compilation
+bin/
+build/
+obj/
+Debug/
+Release/
+
+# Éditeurs et IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Fichiers système
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Autres
+*.log
+*.bak
+*.tmp
+```
